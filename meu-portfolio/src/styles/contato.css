@@ -1,0 +1,33 @@
+.contato-container {
+  border-radius: 10px;
+  color: #fafafa;
+  font-family: 'Arial', sans-serif;
+  text-align: left;
+}
+
+.contato-container h2 {
+  margin-bottom: 1.5rem;
+  font-size: 1.8rem;
+  color: #fafafa;
+}
+
+.contato-lista {
+  list-style: none;
+  padding: 0;
+}
+
+.contato-lista li {
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.contato-lista a {
+  color: #00dfc4;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.contato-lista a:hover {
+  text-decoration: underline;
+}

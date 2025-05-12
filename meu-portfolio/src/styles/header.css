@@ -1,0 +1,25 @@
+.header-home {
+  padding: 4rem;
+  text-align: center;
+  text-decoration: none;
+  color: #FAFAFA;
+  margin: 8px 8px;
+  font-size: 1.5rem; 
+  cursor: pointer;
+}
+
+.header-home a {
+  text-decoration: none;
+  color: #FAFAFA;  
+  padding: 5px 10px; 
+  font-weight: 500;
+}
+
+.header-home a:visited {
+  color: inherit; 
+}
+
+.header-home a:hover {
+  text-decoration: underline;
+  color: #6b6767;
+}
